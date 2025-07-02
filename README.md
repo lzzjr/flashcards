@@ -1,1 +1,2 @@
-# flashcards
+# FlashCards
+Curso Alura
